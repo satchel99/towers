@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="edu.buffalo.cse"
+		module="cse116"
+		revision="0.0.1"
+		conf="optional"
+		confs="default, master, compile, provided, runtime, test, system, sources, javadoc, optional, compile-internal, runtime-internal, test-internal, scala-tool"
+		date="20190503020814"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

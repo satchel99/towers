@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:260:31: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m       var playerX : Double = null;[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:261:31: an expression of type Null is ineligible for implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m       var playerY : Double = null;[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:332:40: not found: value playerX[0m
+[0m[[0m[31merror[0m] [0m[0m        var newX : Double = centerX - (playerX);[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:333:40: not found: value playerX[0m
+[0m[[0m[31merror[0m] [0m[0m        var newY : Double = centerY - (playerX);[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:348:40: not found: value playerX[0m
+[0m[[0m[31merror[0m] [0m[0m        var newX : Double = centerX - (playerX);[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/towers/src/main/scala/model/ai/AIPlayer.scala:349:40: not found: value playerY[0m
+[0m[[0m[31merror[0m] [0m[0m        var newY : Double = centerY - (playerY);[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

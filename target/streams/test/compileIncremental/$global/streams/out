@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe towers.model.ai.AIPlayer has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(makePathSmoothe,[Default]), UsedName(heap,[Default]), UsedName(process,[Default]), UsedName(closestHole,[Default]), UsedName(getWallX,[Default]), UsedName(makePath,[Default]), UsedName(bfs,[Default]), UsedName(existsAt,[Default]), UsedName(getHoles,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) towers.model.ai.AIPlayer: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) towers.model.ai.AIPlayer.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of towers.model.ai.SampleTest. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
